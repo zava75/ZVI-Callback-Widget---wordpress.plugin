@@ -1,0 +1,93 @@
+form.zvi-form-admin select.form-control {
+    width: 90%
+}
+
+.sos {
+    background: red;
+    padding: 0 10px;
+    text-align: center
+}
+
+.zvi-callback-form-control label {
+    clear: both;
+    cursor: pointer;
+    display: block
+}
+
+.zvi-callback-form-control label span {
+    font-weight: 700;
+    font-size: 14px;
+    display: block;
+    clear: both
+}
+
+.zvi-callback-form-control label input, .zvi-callback-form-control label select, .zvi-callback-form-control label textarea {
+    display: block;
+    clear: both;
+    width: 90%;
+    border: 0;
+    margin-top: 10px
+}
+
+.zvi-callback-form-control.nice-loader-checkbox {
+    clear: both;
+    display: inline-block;
+    width: 100%
+}
+
+.zvi-callback-form-control.nice-loader-checkbox label span {
+    clear: none;
+    display: inline-block;
+    float: left
+}
+
+.zvi-callback-form-control.nice-loader-checkbox label input {
+    display: block;
+    width: auto;
+    clear: none;
+    margin: 0 5px 0 0;
+    float: left;
+    position: relative;
+    top: 6px
+}
+
+.admin-row {
+    display: block;
+    clear: both;
+    min-height: 1px
+}
+
+.admin-row:after, .admin-row:before {
+    content: " ";
+    clear: both;
+    display: block
+}
+
+.admin-col-6 {
+    width: 50%;
+    float: left
+}
+
+.zvi-box > h3 {
+    margin: 10px 0;
+    font-size: 16px
+}
+
+form.zvi-form-admin span {
+    font-weight: 400
+}
+
+form.zvi-form-admin h3 {
+    margin: 10px 0
+}
+
+@media screen and (max-width: 768px) {
+    .admin-col-6 {
+        width: 100%;
+        float: left
+    }
+
+    .zvi-callback-form-control label input, .zvi-callback-form-control label select, .zvi-callback-form-control label textarea {
+        width: 100%
+    }
+}

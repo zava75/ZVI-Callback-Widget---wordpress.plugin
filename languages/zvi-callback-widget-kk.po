@@ -1,0 +1,262 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-13 20:08+0000\n"
+"PO-Revision-Date: 2019-10-13 20:09+0000\n"
+"Last-Translator: \n"
+"Language-Team: Kazakh\n"
+"Language: kk\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Author of the plugin
+msgid "Zatsarinny Vadim"
+msgstr "Зацаринный Вадим"
+
+#. Name of the plugin
+msgid "ZVI Callback Widget"
+msgstr "ZVI Callback Widget"
+
+#. Description of the plugin
+msgid ""
+"ZVI CallBack widget WordPress. Customize CallBack widget WordPress (+ "
+"Support Contact Form 7 +Bot Telegram)"
+msgstr ""
+"ZVI Callback Widget қоңырау шалу үшін WordPress. Виджет теңшеу кері қоңырау "
+"шалу үшін WordPress ( қолдау байланыс нысаны 7 бота Telegram)"
+
+#: zvi_callback_admin.php:144
+msgid "Appearance Callback"
+msgstr "Пайда Кері Шақыру"
+
+#: zvi_callback_admin.php:105
+msgid ""
+"Attention! Noticed incorrect language translation write to us, we will fix "
+"it or use the plug-in for translation"
+msgstr ""
+"Назар аударыңыз! Байқаған қате аударма тілі, бізге жазыңыз, біз оның дұрыс "
+"екенін немесе плагинді пайдалану үшін аудару"
+
+#: zvi_callback_widget.php:128
+msgid "BUTTON"
+msgstr "Түймесі"
+
+#: zvi_callback_widget.php:127
+msgid "CALL"
+msgstr "Қоңырау шалыңыз"
+
+#: zvi_callback_admin.php:266
+msgid "Chat ID Telegram: "
+msgstr "Чат ID төрағасы: "
+
+#: zvi_callback_admin.php:149
+msgid "Color Callback"
+msgstr "Түсі Отзвонились"
+
+#: zvi_callback_admin.php:158
+msgid "Color Callback hover"
+msgstr "Түсі кері байланыс орнату"
+
+#: zvi_callback_admin.php:197
+msgid "Color Callback hover Text"
+msgstr "Түсі кері шақыру қалқымалы мәтін"
+
+#: zvi_callback_admin.php:240
+msgid "Contact Form 7 Shortcode: "
+msgstr "Байланыс Нысаны 7 Шорткод: "
+
+#: zvi_callback_admin.php:215
+msgid "E-mail admin for the default form (Default E-mail administrator)"
+msgstr ""
+"Электрондық пошта әкімшісінің үшін нысаны әдепкі (әдепкі электрондық пошта "
+"әкімшісі)"
+
+#: zvi_callback_admin.php:11 zvi_callback_admin.php:57
+#: zvi_callback_widget.php:15
+msgid "Feedback"
+msgstr "Пікірлер"
+
+#: zvi_callback_admin.php:123
+msgid "Form header"
+msgstr "Тақырыбы нысандары "
+
+#: zvi_callback_admin.php:210
+msgid "Form Settings Callback"
+msgstr "Параметрлер Нысан \" Кері Қоңырау"
+
+#: zvi_callback_admin.php:118
+msgid "Header Callback"
+msgstr "Тақырыбы Кері Қоңырау"
+
+#. Author URI of the plugin
+msgid "http://studio-f1.in.ua/contact.html"
+msgstr "http://studio-f1.in.ua/contact.html"
+
+#. URI of the plugin
+msgid "http://studio-f1.in.ua/project03.html"
+msgstr "http://studio-f1.in.ua/project03.html"
+
+#: zvi_callback_admin.php:176
+msgid "Icon Callback 1"
+msgstr "Белгішесі Кері Шақыру 1"
+
+#: zvi_callback_admin.php:185
+msgid "Icon Callback 10"
+msgstr "Белгішесі Кері Шақыру 10"
+
+#: zvi_callback_admin.php:186
+msgid "Icon Callback 11"
+msgstr "Белгішесі Кері Шақыру 11"
+
+#: zvi_callback_admin.php:187
+msgid "Icon Callback 12"
+msgstr "Белгішесі Кері Шақыру 12"
+
+#: zvi_callback_admin.php:188
+msgid "Icon Callback 13"
+msgstr "Белгішесі Кері Шақыру 13"
+
+#: zvi_callback_admin.php:189
+msgid "Icon Callback 14"
+msgstr "Белгішесі Кері Шақыру 14"
+
+#: zvi_callback_admin.php:177
+msgid "Icon Callback 2"
+msgstr "Белгішесі Кері Шақыру 2"
+
+#: zvi_callback_admin.php:178
+msgid "Icon Callback 3"
+msgstr "Белгішесі Кері Шақыру 3"
+
+#: zvi_callback_admin.php:179
+msgid "Icon Callback 4"
+msgstr "Белгішесі Кері Шақыру 4"
+
+#: zvi_callback_admin.php:180
+msgid "Icon Callback 5"
+msgstr "Белгішесі Кері Шақыру 5"
+
+#: zvi_callback_admin.php:181
+msgid "Icon Callback 6"
+msgstr "Белгішесі Кері Шақыру 6"
+
+#: zvi_callback_admin.php:182
+msgid "Icon Callback 7"
+msgstr "Белгішесі Кері Шақыру 7"
+
+#: zvi_callback_admin.php:183
+msgid "Icon Callback 8"
+msgstr "Белгішесі Кері Шақыру 8"
+
+#: zvi_callback_admin.php:184
+msgid "Icon Callback 9"
+msgstr "Белгішесі Кері Шақыру 9"
+
+#: zvi_callback_widget.php:164
+msgid "Message from the site"
+msgstr "Хабарлама сайты"
+
+#: zvi_callback_widget.php:103 zvi_callback_widget.php:162
+msgid "Name"
+msgstr "Атауы"
+
+#: zvi_callback_admin.php:84
+msgid ""
+"Need help in setting up and finalizing a plugin or website, write to us, we "
+"will be happy to help you!"
+msgstr ""
+"Көмек қажет орнату және пысықтау плагин немесе сайт, бізге хат жазыңыздар, "
+"біз сізге көмектесуге қуанышты!"
+
+#: zvi_callback_widget.php:106 zvi_callback_widget.php:163
+msgid "Phone"
+msgstr "Телефон"
+
+#: zvi_callback_admin.php:289
+msgid "Save Settings"
+msgstr "Параметрлерді Сақтау"
+
+#: zvi_callback_admin.php:173
+msgid "Select the widget icon (by default, this is the No. 3 male consultant)"
+msgstr "Таңдаңыз виджет белгішесін (әдепкі бойынша, бұл № 3 ер-кеңесші)"
+
+#: zvi_callback_widget.php:108
+msgid "Send"
+msgstr "Жіберу"
+
+#: zvi_callback_admin.php:258
+msgid ""
+"Send only to Telegram (By default, Send to the Default Form and Telegram)"
+msgstr ""
+"Жіберу тек Telegram (әдепкі бойынша, жіберу әдепкі бойынша, нысаны мен "
+"жеделхаттар)"
+
+#: zvi_callback_admin.php:255
+msgid "Settings for integration with Telegram"
+msgstr "Параметрлер біріктіру үшін жеделхатпен"
+
+#: zvi_callback_admin.php:233
+msgid "Settings when using Contact Form 7 Callback"
+msgstr "Параметрлер пайдалану кезінде байланыс нысанын 7 кері шақыру"
+
+#: zvi_callback_widget.php:165
+msgid "Site URL"
+msgstr "URL-адрес сайта "
+
+#: zvi_callback_admin.php:134
+msgid "Subtitle form"
+msgstr "Нысаны подзаголовок "
+
+#: zvi_callback_admin.php:256
+msgid ""
+"Telegram API only works with the default form (does not work with Contact "
+"Form 7).\n"
+"To connect, enter the chat id and token, activate the Telegram bot before "
+"connecting. Read instructions"
+msgstr ""
+"Елбасы API-интерфейс ғана жұмыс істейді нысаны әдепкі (істемейді байланыс "
+"нысаны 7).\n"
+"Қосу үшін енгізіңіз id чат және маркер іске қосу бота үшін Telegram қосардың "
+"алдында. Нұсқаулықты оқып "
+
+#: zvi_callback_admin.php:276
+msgid "Token Telegram"
+msgstr "Маркер, Жеделхат Жолдады"
+
+#: zvi_callback_admin.php:53
+msgid "Update widget settings"
+msgstr "Жаңарту параметрлерін виджет "
+
+#: zvi_callback_admin.php:224
+msgid "Url Pages after submitting the form (By default, the main page)"
+msgstr "Беттің url жібергеннен кейін нысанын (әдепкі басты бетінде)"
+
+#: zvi_callback_admin.php:100
+msgid "Web Studio F1 Website"
+msgstr "Сайт Веб-Студия Ф1 "
+
+#: zvi_callback_admin.php:234
+msgid ""
+"When using Contact Form 7, paste the shortcode of your form in the next "
+"field. for example [contact-form-7 id=\"6\" title=\"Contact form 1\"]. \n"
+"                 Attention! When you insert shortcode Contact Form 7, the "
+"standard form will be disabled."
+msgstr ""
+"Пайдалану кезінде байланыс нысаны 7, салыңыз шорткод нысандары келесі өріс. "
+"мысалы, [байланыс нысаны-7 ИД=\"6\" атауы=\"байланыс нысаны\" деген 1]. \n"
+"Назар аударыңыз! Сіз вставляете шорткод байланыс нысаны 7, стандартты нысаны "
+"тоқтатылады."
+
+#: zvi_callback_admin.php:166
+msgid ""
+"Widget position on the left side (By default, By default, the widget on the "
+"right side)"
+msgstr "Ереже виджет сол жағында (әдепкі әдепкі виджет оң жақта)"
+
+#: zvi_callback_admin.php:83
+msgid "WP ZVI Callback Widget Settings"
+msgstr "Параметрлері WP виджет кері ЗВИ "

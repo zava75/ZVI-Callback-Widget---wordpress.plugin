@@ -1,0 +1,248 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-13 19:50+0000\n"
+"PO-Revision-Date: 2019-10-13 19:50+0000\n"
+"Last-Translator: \n"
+"Language-Team: Chinese (China)\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Author of the plugin
+msgid "Zatsarinny Vadim"
+msgstr "Zatsarinny瓦迪姆"
+
+#. Name of the plugin
+msgid "ZVI Callback Widget"
+msgstr "ZVI回调的部件"
+
+#. Description of the plugin
+msgid ""
+"ZVI CallBack widget WordPress. Customize CallBack widget WordPress (+ "
+"Support Contact Form 7 +Bot Telegram)"
+msgstr "ZVI回调的部件。 自回调的部件WordPress(支持联系表7Bot电报)"
+
+#: zvi_callback_admin.php:144
+msgid "Appearance Callback"
+msgstr "外表回调"
+
+#: zvi_callback_admin.php:105
+msgid ""
+"Attention! Noticed incorrect language translation write to us, we will fix "
+"it or use the plug-in for translation"
+msgstr "注意！ 注意到不正确的语言翻译给我们写信，我们将修复或使用的插头-在翻译"
+
+#: zvi_callback_widget.php:128
+msgid "BUTTON"
+msgstr "按钮"
+
+#: zvi_callback_widget.php:127
+msgid "CALL"
+msgstr "呼叫"
+
+#: zvi_callback_admin.php:266
+msgid "Chat ID Telegram: "
+msgstr "聊天ID电报： "
+
+#: zvi_callback_admin.php:149
+msgid "Color Callback"
+msgstr "颜回"
+
+#: zvi_callback_admin.php:158
+msgid "Color Callback hover"
+msgstr "颜回悬停"
+
+#: zvi_callback_admin.php:197
+msgid "Color Callback hover Text"
+msgstr "颜回悬停文本"
+
+#: zvi_callback_admin.php:240
+msgid "Contact Form 7 Shortcode: "
+msgstr "联系表7简： "
+
+#: zvi_callback_admin.php:215
+msgid "E-mail admin for the default form (Default E-mail administrator)"
+msgstr "电子邮件管理员的默认形式(默认的电子邮件管理员)"
+
+#: zvi_callback_admin.php:11 zvi_callback_admin.php:57
+#: zvi_callback_widget.php:15
+msgid "Feedback"
+msgstr "反馈"
+
+#: zvi_callback_admin.php:123
+msgid "Form header"
+msgstr "形成头"
+
+#: zvi_callback_admin.php:210
+msgid "Form Settings Callback"
+msgstr "表格设置回调"
+
+#: zvi_callback_admin.php:118
+msgid "Header Callback"
+msgstr "头回调"
+
+#. Author URI of the plugin
+msgid "http://studio-f1.in.ua/contact.html"
+msgstr "http://studio-f1.in.ua/contact.html"
+
+#. URI of the plugin
+msgid "http://studio-f1.in.ua/project03.html"
+msgstr "http://studio-f1.in.ua/project03.html"
+
+#: zvi_callback_admin.php:176
+msgid "Icon Callback 1"
+msgstr "图标回调1"
+
+#: zvi_callback_admin.php:185
+msgid "Icon Callback 10"
+msgstr "图标Callback10"
+
+#: zvi_callback_admin.php:186
+msgid "Icon Callback 11"
+msgstr "图标11回调"
+
+#: zvi_callback_admin.php:187
+msgid "Icon Callback 12"
+msgstr "图标回调12"
+
+#: zvi_callback_admin.php:188
+msgid "Icon Callback 13"
+msgstr "图标Callback13"
+
+#: zvi_callback_admin.php:189
+msgid "Icon Callback 14"
+msgstr "图标Callback14"
+
+#: zvi_callback_admin.php:177
+msgid "Icon Callback 2"
+msgstr "图标Callback2"
+
+#: zvi_callback_admin.php:178
+msgid "Icon Callback 3"
+msgstr "图标3回调"
+
+#: zvi_callback_admin.php:179
+msgid "Icon Callback 4"
+msgstr "图标Callback4"
+
+#: zvi_callback_admin.php:180
+msgid "Icon Callback 5"
+msgstr "图标Callback5"
+
+#: zvi_callback_admin.php:181
+msgid "Icon Callback 6"
+msgstr "图标Callback6"
+
+#: zvi_callback_admin.php:182
+msgid "Icon Callback 7"
+msgstr "图标Callback7"
+
+#: zvi_callback_admin.php:183
+msgid "Icon Callback 8"
+msgstr "图标8的回调"
+
+#: zvi_callback_admin.php:184
+msgid "Icon Callback 9"
+msgstr "图标Callback9"
+
+#: zvi_callback_widget.php:164
+msgid "Message from the site"
+msgstr "消息来自网站"
+
+#: zvi_callback_widget.php:103 zvi_callback_widget.php:162
+msgid "Name"
+msgstr "名称"
+
+#: zvi_callback_admin.php:84
+msgid ""
+"Need help in setting up and finalizing a plugin or website, write to us, we "
+"will be happy to help you!"
+msgstr "需要帮助设立和最后确定一个插件或网站，给我们写信，我们将很乐意帮助你！"
+
+#: zvi_callback_widget.php:106 zvi_callback_widget.php:163
+msgid "Phone"
+msgstr "电话"
+
+#: zvi_callback_admin.php:289
+msgid "Save Settings"
+msgstr "保存的设置"
+
+#: zvi_callback_admin.php:173
+msgid "Select the widget icon (by default, this is the No. 3 male consultant)"
+msgstr "选择工具的图标(默认情况下，这是第3男性顾问)"
+
+#: zvi_callback_widget.php:108
+msgid "Send"
+msgstr "发送"
+
+#: zvi_callback_admin.php:258
+msgid ""
+"Send only to Telegram (By default, Send to the Default Form and Telegram)"
+msgstr "只发送以电报(默认情况下，发送的默认形式和电报)"
+
+#: zvi_callback_admin.php:255
+msgid "Settings for integration with Telegram"
+msgstr "设置，用于集成电报"
+
+#: zvi_callback_admin.php:233
+msgid "Settings when using Contact Form 7 Callback"
+msgstr "设置在使用联系表7的回调"
+
+#: zvi_callback_widget.php:165
+msgid "Site URL"
+msgstr "网站的网址"
+
+#: zvi_callback_admin.php:134
+msgid "Subtitle form"
+msgstr "字幕式"
+
+#: zvi_callback_admin.php:256
+msgid ""
+"Telegram API only works with the default form (does not work with Contact "
+"Form 7).\n"
+"To connect, enter the chat id and token, activate the Telegram bot before "
+"connecting. Read instructions"
+msgstr ""
+"报API只适用的默认形式(不工作与联系的形式7).\n"
+"连接，输入聊天id和标记，激活电报bot之前连接。 阅读说明书"
+
+#: zvi_callback_admin.php:276
+msgid "Token Telegram"
+msgstr "令牌的电报"
+
+#: zvi_callback_admin.php:53
+msgid "Update widget settings"
+msgstr "更新部件的设置"
+
+#: zvi_callback_admin.php:224
+msgid "Url Pages after submitting the form (By default, the main page)"
+msgstr "Url页之后提交的形式(默认主页)"
+
+#: zvi_callback_admin.php:100
+msgid "Web Studio F1 Website"
+msgstr "网络工作室F1的网站"
+
+#: zvi_callback_admin.php:234
+msgid ""
+"When using Contact Form 7, paste the shortcode of your form in the next "
+"field. for example [contact-form-7 id=\"6\" title=\"Contact form 1\"]. \n"
+"                 Attention! When you insert shortcode Contact Form 7, the "
+"standard form will be disabled."
+msgstr ""
+"当使用联系表7、粘贴的简的形式，在下一个领域。 例如[接触形7id=\"6\"title=\"接触形式1\"]. \n"
+"注意！ 当插入简联系表7，标准形式将残疾人。"
+
+#: zvi_callback_admin.php:166
+msgid ""
+"Widget position on the left side (By default, By default, the widget on the "
+"right side)"
+msgstr "部件的位置在左侧的(默认情况下，可通过默认，小窗口在右边)"
+
+#: zvi_callback_admin.php:83
+msgid "WP ZVI Callback Widget Settings"
+msgstr "WP ZVI回调的部件的设置"

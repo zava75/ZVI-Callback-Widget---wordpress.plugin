@@ -1,0 +1,267 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-13 19:54+0000\n"
+"PO-Revision-Date: 2019-10-13 19:54+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Author of the plugin
+msgid "Zatsarinny Vadim"
+msgstr "Zatsarinny Vadim"
+
+#. Name of the plugin
+msgid "ZVI Callback Widget"
+msgstr "ZVI Επανάκλησης Widget"
+
+#. Description of the plugin
+msgid ""
+"ZVI CallBack widget WordPress. Customize CallBack widget WordPress (+ "
+"Support Contact Form 7 +Bot Telegram)"
+msgstr ""
+"ZVI Επανάκλησης widget WordPress. Προσαρμόστε Επανάκλησης widget WordPress ( "
+"Υποστήριξη Φόρμα Επικοινωνίας 7 Bot Τηλεγράφημα)"
+
+#: zvi_callback_admin.php:144
+msgid "Appearance Callback"
+msgstr "Εμφάνιση Επανάκλησης"
+
+#: zvi_callback_admin.php:105
+msgid ""
+"Attention! Noticed incorrect language translation write to us, we will fix "
+"it or use the plug-in for translation"
+msgstr ""
+"Προσοχή! Παρατήρησα εσφαλμένη γλώσσα της μετάφρασης να μας γράψετε, θα το "
+"διορθώσουμε ή να χρησιμοποιήσετε το plug-in για την μετάφραση"
+
+#: zvi_callback_widget.php:128
+msgid "BUTTON"
+msgstr "ΚΟΥΜΠΊ"
+
+#: zvi_callback_widget.php:127
+msgid "CALL"
+msgstr "ΚΛΉΣΗ"
+
+#: zvi_callback_admin.php:266
+msgid "Chat ID Telegram: "
+msgstr "Chat ID Τηλεγράφημα: "
+
+#: zvi_callback_admin.php:149
+msgid "Color Callback"
+msgstr "Χρώμα Επανάκλησης"
+
+#: zvi_callback_admin.php:158
+msgid "Color Callback hover"
+msgstr "Χρώμα Επανάκλησης hover"
+
+#: zvi_callback_admin.php:197
+msgid "Color Callback hover Text"
+msgstr "Χρώμα Επανάκλησης hover Κείμενο"
+
+#: zvi_callback_admin.php:240
+msgid "Contact Form 7 Shortcode: "
+msgstr "Φόρμα Επικοινωνίας 7 Shortcode: "
+
+#: zvi_callback_admin.php:215
+msgid "E-mail admin for the default form (Default E-mail administrator)"
+msgstr ""
+"E-mail admin για την προεπιλεγμένη φόρμα (Προεπιλεγμένο διαχειριστή E-mail)"
+
+#: zvi_callback_admin.php:11 zvi_callback_admin.php:57
+#: zvi_callback_widget.php:15
+msgid "Feedback"
+msgstr "Σχόλια"
+
+#: zvi_callback_admin.php:123
+msgid "Form header"
+msgstr "Κεφαλίδα φόρμας"
+
+#: zvi_callback_admin.php:210
+msgid "Form Settings Callback"
+msgstr "Μορφή Ρυθμίσεις Επανάκλησης"
+
+#: zvi_callback_admin.php:118
+msgid "Header Callback"
+msgstr "Κεφαλίδα Επανάκλησης"
+
+#. Author URI of the plugin
+msgid "http://studio-f1.in.ua/contact.html"
+msgstr "http://studio-f1.in.ua/contact.html"
+
+#. URI of the plugin
+msgid "http://studio-f1.in.ua/project03.html"
+msgstr "http://studio-f1.in.ua/project03.html"
+
+#: zvi_callback_admin.php:176
+msgid "Icon Callback 1"
+msgstr "Εικονίδιο Επανάκλησης 1"
+
+#: zvi_callback_admin.php:185
+msgid "Icon Callback 10"
+msgstr "Εικονίδιο Επανάκλησης 10"
+
+#: zvi_callback_admin.php:186
+msgid "Icon Callback 11"
+msgstr "Εικονίδιο Επανάκλησης 11"
+
+#: zvi_callback_admin.php:187
+msgid "Icon Callback 12"
+msgstr "Εικονίδιο Επανάκλησης 12"
+
+#: zvi_callback_admin.php:188
+msgid "Icon Callback 13"
+msgstr "Εικονίδιο Επανάκλησης 13"
+
+#: zvi_callback_admin.php:189
+msgid "Icon Callback 14"
+msgstr "Εικονίδιο Επανάκλησης 14"
+
+#: zvi_callback_admin.php:177
+msgid "Icon Callback 2"
+msgstr "Εικονίδιο Επανάκλησης 2"
+
+#: zvi_callback_admin.php:178
+msgid "Icon Callback 3"
+msgstr "Εικονίδιο Επανάκλησης 3"
+
+#: zvi_callback_admin.php:179
+msgid "Icon Callback 4"
+msgstr "Εικονίδιο Επανάκλησης 4"
+
+#: zvi_callback_admin.php:180
+msgid "Icon Callback 5"
+msgstr "Εικονίδιο Επανάκλησης 5"
+
+#: zvi_callback_admin.php:181
+msgid "Icon Callback 6"
+msgstr "Εικονίδιο Επανάκλησης 6"
+
+#: zvi_callback_admin.php:182
+msgid "Icon Callback 7"
+msgstr "Εικονίδιο Επανάκλησης 7"
+
+#: zvi_callback_admin.php:183
+msgid "Icon Callback 8"
+msgstr "Εικονίδιο Επανάκλησης 8"
+
+#: zvi_callback_admin.php:184
+msgid "Icon Callback 9"
+msgstr "Εικονίδιο Επανάκλησης 9"
+
+#: zvi_callback_widget.php:164
+msgid "Message from the site"
+msgstr "Μήνυμα από την τοποθεσία"
+
+#: zvi_callback_widget.php:103 zvi_callback_widget.php:162
+msgid "Name"
+msgstr "Όνομα"
+
+#: zvi_callback_admin.php:84
+msgid ""
+"Need help in setting up and finalizing a plugin or website, write to us, we "
+"will be happy to help you!"
+msgstr ""
+"Χρειάζεστε βοήθεια για τη δημιουργία και οριστικοποίηση ένα plugin ή την "
+"ιστοσελίδα σας, γράψτε μας, θα χαρούμε να σας βοηθήσουμε!"
+
+#: zvi_callback_widget.php:106 zvi_callback_widget.php:163
+msgid "Phone"
+msgstr "Τηλέφωνο"
+
+#: zvi_callback_admin.php:289
+msgid "Save Settings"
+msgstr "Αποθήκευση Ρυθμίσεων"
+
+#: zvi_callback_admin.php:173
+msgid "Select the widget icon (by default, this is the No. 3 male consultant)"
+msgstr ""
+"Επιλέξτε το εικονίδιο widget (από προεπιλογή, αυτό είναι το Νο. 3 αρσενικά "
+"σύμβουλος)"
+
+#: zvi_callback_widget.php:108
+msgid "Send"
+msgstr "Στείλτε"
+
+#: zvi_callback_admin.php:258
+msgid ""
+"Send only to Telegram (By default, Send to the Default Form and Telegram)"
+msgstr ""
+"Στείλτε μόνο Τηλεγράφημα (Από προεπιλογή, Στείλτε την Προεπιλεγμένη Μορφή "
+"και το Τηλεγράφημα)"
+
+#: zvi_callback_admin.php:255
+msgid "Settings for integration with Telegram"
+msgstr "Ρυθμίσεις για την ενσωμάτωση με το Τηλεγράφημα"
+
+#: zvi_callback_admin.php:233
+msgid "Settings when using Contact Form 7 Callback"
+msgstr "Ρυθμίσεις όταν χρησιμοποιείτε την Φόρμα Επικοινωνίας 7 Επανάκλησης"
+
+#: zvi_callback_widget.php:165
+msgid "Site URL"
+msgstr "URL ιστοσελίδας"
+
+#: zvi_callback_admin.php:134
+msgid "Subtitle form"
+msgstr "Υπότιτλος μορφή"
+
+#: zvi_callback_admin.php:256
+msgid ""
+"Telegram API only works with the default form (does not work with Contact "
+"Form 7).\n"
+"To connect, enter the chat id and token, activate the Telegram bot before "
+"connecting. Read instructions"
+msgstr ""
+"Τηλεγράφημα API λειτουργεί μόνο με την προεπιλεγμένη φόρμα (δεν λειτουργεί "
+"με την Φόρμα Επικοινωνίας 7).\n"
+"Για να συνδεθείτε, εισάγετε το chat id και τον κωδικό ασφαλείας, "
+"ενεργοποιήστε το Τηλεγράφημα bot πριν από τη σύνδεση. Διαβάστε τις οδηγίες"
+
+#: zvi_callback_admin.php:276
+msgid "Token Telegram"
+msgstr "Διακριτικό Τηλεγράφημα"
+
+#: zvi_callback_admin.php:53
+msgid "Update widget settings"
+msgstr "Ενημέρωση widget ρυθμίσεις"
+
+#: zvi_callback_admin.php:224
+msgid "Url Pages after submitting the form (By default, the main page)"
+msgstr ""
+"Url Σελίδες μετά την υποβολή της φόρμας (Από προεπιλογή, η κύρια σελίδα)"
+
+#: zvi_callback_admin.php:100
+msgid "Web Studio F1 Website"
+msgstr "Web Studio F1 Ιστοσελίδα"
+
+#: zvi_callback_admin.php:234
+msgid ""
+"When using Contact Form 7, paste the shortcode of your form in the next "
+"field. for example [contact-form-7 id=\"6\" title=\"Contact form 1\"]. \n"
+"                 Attention! When you insert shortcode Contact Form 7, the "
+"standard form will be disabled."
+msgstr ""
+"Όταν χρησιμοποιείτε την Φόρμα Επικοινωνίας 7, επικόλληση του shortcode της "
+"φόρμας σας στο επόμενο πεδίο. για παράδειγμα [contact-form-7 id=\"6\" "
+"title=\"φόρμα Επικοινωνίας 1\"]. \n"
+"Προσοχή! Κατά την εισαγωγή shortcode Φόρμα Επικοινωνίας 7, το έντυπο θα "
+"πρέπει να απενεργοποιηθεί."
+
+#: zvi_callback_admin.php:166
+msgid ""
+"Widget position on the left side (By default, By default, the widget on the "
+"right side)"
+msgstr ""
+"Widget θέση στην αριστερή πλευρά (Από προεπιλογή, Από προεπιλογή, το widget "
+"στη δεξιά πλευρά)"
+
+#: zvi_callback_admin.php:83
+msgid "WP ZVI Callback Widget Settings"
+msgstr "WP ZVI Επανάκλησης Ρυθμίσεις Widget"

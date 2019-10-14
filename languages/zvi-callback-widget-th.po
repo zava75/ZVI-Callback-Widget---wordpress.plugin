@@ -1,0 +1,259 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-13 20:06+0000\n"
+"PO-Revision-Date: 2019-10-13 20:06+0000\n"
+"Last-Translator: \n"
+"Language-Team: Thai\n"
+"Language: th\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Author of the plugin
+msgid "Zatsarinny Vadim"
+msgstr "Zatsarinny Vadim"
+
+#. Name of the plugin
+msgid "ZVI Callback Widget"
+msgstr "ZVI เรียกกลับวิดเจ็ต"
+
+#. Description of the plugin
+msgid ""
+"ZVI CallBack widget WordPress. Customize CallBack widget WordPress (+ "
+"Support Contact Form 7 +Bot Telegram)"
+msgstr ""
+"ZVI เรียกกลับวิดเจ็ต WordPress. ปรับแต่งเรียกกลับวิดเจ็ต "
+"WordPress(รองรับติดต่อแบบฟอร์ 7 Bot โทรเลข)"
+
+#: zvi_callback_admin.php:144
+msgid "Appearance Callback"
+msgstr "รูปลักษณ์เรียกกลับ"
+
+#: zvi_callback_admin.php:105
+msgid ""
+"Attention! Noticed incorrect language translation write to us, we will fix "
+"it or use the plug-in for translation"
+msgstr ""
+"ความสนใจ! สังเกตเห็นไม่ถูกต้องภาษาแปลภาษาเขียนไปยังพวกเรา,"
+"เราจะแก้ไขมันหรือใช้ปลั๊กออก-ในสำหรับการแปลภาษา"
+
+#: zvi_callback_widget.php:128
+msgid "BUTTON"
+msgstr "ปุ่ม"
+
+#: zvi_callback_widget.php:127
+msgid "CALL"
+msgstr "โทรหา"
+
+#: zvi_callback_admin.php:266
+msgid "Chat ID Telegram: "
+msgstr "คุยกันหมายเลขโทรเลข: "
+
+#: zvi_callback_admin.php:149
+msgid "Color Callback"
+msgstr "สีเรียกกลับ"
+
+#: zvi_callback_admin.php:158
+msgid "Color Callback hover"
+msgstr "สีเรียกกลับเมื่อเมาส์ชี้อยู่"
+
+#: zvi_callback_admin.php:197
+msgid "Color Callback hover Text"
+msgstr "สีเรียกกลับเมาส์อยู่เหนือข้อความ"
+
+#: zvi_callback_admin.php:240
+msgid "Contact Form 7 Shortcode: "
+msgstr "ติดต่อแบบฟอร์ 7 Shortcode: "
+
+#: zvi_callback_admin.php:215
+msgid "E-mail admin for the default form (Default E-mail administrator)"
+msgstr "อีเมลสำหรับผู้ดูแดนค่าปริยายรูปแบบ(ค่าปริยายอีเมลล์ดูแลระบบ)"
+
+#: zvi_callback_admin.php:11 zvi_callback_admin.php:57
+#: zvi_callback_widget.php:15
+msgid "Feedback"
+msgstr "การแจ้งเตือนการเริ่มทำงาน"
+
+#: zvi_callback_admin.php:123
+msgid "Form header"
+msgstr "รูปแบบส่วนหัว"
+
+#: zvi_callback_admin.php:210
+msgid "Form Settings Callback"
+msgstr "รูปแบบการตั้งค่าสำหรับโทรกลับ"
+
+#: zvi_callback_admin.php:118
+msgid "Header Callback"
+msgstr "เรียกกลับส่วนหัว"
+
+#. Author URI of the plugin
+msgid "http://studio-f1.in.ua/contact.html"
+msgstr "http://studio-f1.in.ua/contact.html"
+
+#. URI of the plugin
+msgid "http://studio-f1.in.ua/project03.html"
+msgstr "http://studio-f1.in.ua/project03.html"
+
+#: zvi_callback_admin.php:176
+msgid "Icon Callback 1"
+msgstr "ภาพไอคอนสำหรับโทรกลับ 1"
+
+#: zvi_callback_admin.php:185
+msgid "Icon Callback 10"
+msgstr "ภาพไอคอนสำหรับโทรกลับ 10"
+
+#: zvi_callback_admin.php:186
+msgid "Icon Callback 11"
+msgstr "ภาพไอคอนสำหรับโทรกลับ 11"
+
+#: zvi_callback_admin.php:187
+msgid "Icon Callback 12"
+msgstr "ภาพไอคอนสำหรับโทรกลับ 12 คน"
+
+#: zvi_callback_admin.php:188
+msgid "Icon Callback 13"
+msgstr "ภาพไอคอนสำหรับโทรกลับ 13"
+
+#: zvi_callback_admin.php:189
+msgid "Icon Callback 14"
+msgstr "ภาพไอคอนสำหรับโทรกลับ 14"
+
+#: zvi_callback_admin.php:177
+msgid "Icon Callback 2"
+msgstr "ภาพไอคอนสำหรับโทรกลับ 2"
+
+#: zvi_callback_admin.php:178
+msgid "Icon Callback 3"
+msgstr "ภาพไอคอนสำหรับโทรกลับ 3"
+
+#: zvi_callback_admin.php:179
+msgid "Icon Callback 4"
+msgstr "ภาพไอคอนสำหรับโทรกลับ 4"
+
+#: zvi_callback_admin.php:180
+msgid "Icon Callback 5"
+msgstr "ภาพไอคอนสำหรับโทรกลับ 5"
+
+#: zvi_callback_admin.php:181
+msgid "Icon Callback 6"
+msgstr "ภาพไอคอนสำหรับโทรกลับ 6"
+
+#: zvi_callback_admin.php:182
+msgid "Icon Callback 7"
+msgstr "ภาพไอคอนสำหรับโทรกลับ 7"
+
+#: zvi_callback_admin.php:183
+msgid "Icon Callback 8"
+msgstr "ภาพไอคอนสำหรับโทรกลับ 8"
+
+#: zvi_callback_admin.php:184
+msgid "Icon Callback 9"
+msgstr "ภาพไอคอนสำหรับโทรกลับ 9"
+
+#: zvi_callback_widget.php:164
+msgid "Message from the site"
+msgstr "ข้อความจากเว็บไซต์"
+
+#: zvi_callback_widget.php:103 zvi_callback_widget.php:162
+msgid "Name"
+msgstr "ชื่อ"
+
+#: zvi_callback_admin.php:84
+msgid ""
+"Need help in setting up and finalizing a plugin or website, write to us, we "
+"will be happy to help you!"
+msgstr ""
+"ต้องการช่วยในการตั้งค่าขึ้นมาและ finalizing เป็นส่วนเสริมหรือเว็บไซต์ของ,"
+"เขียนกับพวกเราเราจะมีความสุขเพื่อช่วยคุณ!"
+
+#: zvi_callback_widget.php:106 zvi_callback_widget.php:163
+msgid "Phone"
+msgstr "โทรศัพท์"
+
+#: zvi_callback_admin.php:289
+msgid "Save Settings"
+msgstr "บันทึกการตั้งค่า"
+
+#: zvi_callback_admin.php:173
+msgid "Select the widget icon (by default, this is the No. 3 male consultant)"
+msgstr "เลือกที่วิดเจ็ตภาพไอคอน(โดยปริยายแล้วนี่คือไม่ 3 ผู้ชายที่ปรึกษา)"
+
+#: zvi_callback_widget.php:108
+msgid "Send"
+msgstr "ส่ง"
+
+#: zvi_callback_admin.php:258
+msgid ""
+"Send only to Telegram (By default, Send to the Default Form and Telegram)"
+msgstr "ส่งเดียวที่ต้องโทรเลขให้ใคร(โดยปริยายส่งไปที่รูปแบบปริยายแล้วโทรเลข)"
+
+#: zvi_callback_admin.php:255
+msgid "Settings for integration with Telegram"
+msgstr "ตั้งค่าสำหรับการใช้งานร่วมกับโทรเลขให้ใคร"
+
+#: zvi_callback_admin.php:233
+msgid "Settings when using Contact Form 7 Callback"
+msgstr "การตั้งค่าที่ใช้ติดต่อแบบฟอร์ 7 ยการโทรกลับ"
+
+#: zvi_callback_widget.php:165
+msgid "Site URL"
+msgstr "เว็บไซต์ที่อยู่ URL"
+
+#: zvi_callback_admin.php:134
+msgid "Subtitle form"
+msgstr "คำบรรยายภาพรูปแบบ"
+
+#: zvi_callback_admin.php:256
+msgid ""
+"Telegram API only works with the default form (does not work with Contact "
+"Form 7).\n"
+"To connect, enter the chat id and token, activate the Telegram bot before "
+"connecting. Read instructions"
+msgstr ""
+"โทรเลขรูปแบบ api เดียวที่ทำงานกับรูปแบบปริยาย(ไม่ได้ทำงานกับติดต่อแบบฟอร์ 7)."
+"\n"
+"เพื่อจะติดต่อป้องคุยกันหมายเลขและระลึกเรียกใช้โทรเลขให้ใคร bot "
+"ก่อนที่จะเชื่อมต่อ. อ่านคำแนะนำ"
+
+#: zvi_callback_admin.php:276
+msgid "Token Telegram"
+msgstr "ตั๋วเข้าใช้งานโทรเลขให้ใคร"
+
+#: zvi_callback_admin.php:53
+msgid "Update widget settings"
+msgstr "ปรับปรุงวิดเจ็ตการตั้งค่า"
+
+#: zvi_callback_admin.php:224
+msgid "Url Pages after submitting the form (By default, the main page)"
+msgstr "ที่อยู่ Url หน้าหลังจาก submitting แบบฟอร์(ค่าปริยายของหลักหน้า)"
+
+#: zvi_callback_admin.php:100
+msgid "Web Studio F1 Website"
+msgstr "เว็บสตูดิโอ F1 เว็บไซต์"
+
+#: zvi_callback_admin.php:234
+msgid ""
+"When using Contact Form 7, paste the shortcode of your form in the next "
+"field. for example [contact-form-7 id=\"6\" title=\"Contact form 1\"]. \n"
+"                 Attention! When you insert shortcode Contact Form 7, the "
+"standard form will be disabled."
+msgstr ""
+"เมื่อใช้การติดต่อแบบฟอร์ 7,วาง shortcode ของคุณรูปแบบในอีกสนาม "
+"ตัวอย่างเช่น[ติดต่อ-แบบฟอร์-7 ชื่อ=\"6\"หัวเรื่อง=\"ติดต่อแบบฟอร์ 1\"]. \n"
+"ความสนใจ! ตอนที่คุณแท shortcode ติดต่อแบบฟอร์ 7,"
+"มาตรฐานรูปแบบจะถูกปิดการใช้งาน"
+
+#: zvi_callback_admin.php:166
+msgid ""
+"Widget position on the left side (By default, By default, the widget on the "
+"right side)"
+msgstr ""
+"วิดเจ็ตตำแหน่งด้านซ้าย(โดยปริยายโดยค่าปริยายของวิดเจ็ตที่ถูกต้องด้านข้าง)"
+
+#: zvi_callback_admin.php:83
+msgid "WP ZVI Callback Widget Settings"
+msgstr "WP ZVI เรียกกลับวิดเจ็ตการตั้งค่า"

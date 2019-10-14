@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-13 19:56+0000\n"
+"PO-Revision-Date: 2019-10-13 19:56+0000\n"
+"Last-Translator: \n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Author of the plugin
+msgid "Zatsarinny Vadim"
+msgstr "Zatsarinny وادیم"
+
+#. Name of the plugin
+msgid "ZVI Callback Widget"
+msgstr "زوی پاسخ ویجت"
+
+#. Description of the plugin
+msgid ""
+"ZVI CallBack widget WordPress. Customize CallBack widget WordPress (+ "
+"Support Contact Form 7 +Bot Telegram)"
+msgstr ""
+"زوی CallBack, ویجت, وردپرس. سفارشی کردن تماس ویجت وردپرس ( پشتیبانی از فرم "
+"تماس 7 ربات Wechat)"
+
+#: zvi_callback_admin.php:144
+msgid "Appearance Callback"
+msgstr "ظاهر پاسخ"
+
+#: zvi_callback_admin.php:105
+msgid ""
+"Attention! Noticed incorrect language translation write to us, we will fix "
+"it or use the plug-in for translation"
+msgstr ""
+"توجه! متوجه نادرست ترجمه زبان به ما ارسال و ما آن را برطرف خواهد کرد و یا با "
+"استفاده از پلاگین برای ترجمه"
+
+#: zvi_callback_widget.php:128
+msgid "BUTTON"
+msgstr "دکمه"
+
+#: zvi_callback_widget.php:127
+msgid "CALL"
+msgstr "تماس"
+
+#: zvi_callback_admin.php:266
+msgid "Chat ID Telegram: "
+msgstr "چت ID Telegram: "
+
+#: zvi_callback_admin.php:149
+msgid "Color Callback"
+msgstr "رنگ Callback"
+
+#: zvi_callback_admin.php:158
+msgid "Color Callback hover"
+msgstr "رنگ Callback شناور"
+
+#: zvi_callback_admin.php:197
+msgid "Color Callback hover Text"
+msgstr "رنگ Callback متن شناور"
+
+#: zvi_callback_admin.php:240
+msgid "Contact Form 7 Shortcode: "
+msgstr "فرم تماس با 7 کوتاه: "
+
+#: zvi_callback_admin.php:215
+msgid "E-mail admin for the default form (Default E-mail administrator)"
+msgstr "E-mail مدیر برای فرم پیش فرض (Default E-mail مدیر)"
+
+#: zvi_callback_admin.php:11 zvi_callback_admin.php:57
+#: zvi_callback_widget.php:15
+msgid "Feedback"
+msgstr "انتقادات و پیشنهادات"
+
+#: zvi_callback_admin.php:123
+msgid "Form header"
+msgstr "فرم سربرگ"
+
+#: zvi_callback_admin.php:210
+msgid "Form Settings Callback"
+msgstr "تنظیمات فرم تماس"
+
+#: zvi_callback_admin.php:118
+msgid "Header Callback"
+msgstr "سربرگ پاسخ"
+
+#. Author URI of the plugin
+msgid "http://studio-f1.in.ua/contact.html"
+msgstr "http://studio-f1.in.ua/contact.html"
+
+#. URI of the plugin
+msgid "http://studio-f1.in.ua/project03.html"
+msgstr "http://studio-f1.in.ua/project03.html"
+
+#: zvi_callback_admin.php:176
+msgid "Icon Callback 1"
+msgstr "آیکون پاسخ 1"
+
+#: zvi_callback_admin.php:185
+msgid "Icon Callback 10"
+msgstr "آیکون تماس 10"
+
+#: zvi_callback_admin.php:186
+msgid "Icon Callback 11"
+msgstr "آیکون تماس 11"
+
+#: zvi_callback_admin.php:187
+msgid "Icon Callback 12"
+msgstr "آیکون تماس 12"
+
+#: zvi_callback_admin.php:188
+msgid "Icon Callback 13"
+msgstr "آیکون تماس 13"
+
+#: zvi_callback_admin.php:189
+msgid "Icon Callback 14"
+msgstr "آیکون تماس 14"
+
+#: zvi_callback_admin.php:177
+msgid "Icon Callback 2"
+msgstr "آیکون پاسخ 2"
+
+#: zvi_callback_admin.php:178
+msgid "Icon Callback 3"
+msgstr "آیکون پاسخ 3"
+
+#: zvi_callback_admin.php:179
+msgid "Icon Callback 4"
+msgstr "آیکون پاسخ 4"
+
+#: zvi_callback_admin.php:180
+msgid "Icon Callback 5"
+msgstr "آیکون پاسخ 5"
+
+#: zvi_callback_admin.php:181
+msgid "Icon Callback 6"
+msgstr "آیکون پاسخ 6"
+
+#: zvi_callback_admin.php:182
+msgid "Icon Callback 7"
+msgstr "آیکون تماس 7"
+
+#: zvi_callback_admin.php:183
+msgid "Icon Callback 8"
+msgstr "آیکون تماس 8"
+
+#: zvi_callback_admin.php:184
+msgid "Icon Callback 9"
+msgstr "آیکون تماس 9"
+
+#: zvi_callback_widget.php:164
+msgid "Message from the site"
+msgstr "پیام از سایت"
+
+#: zvi_callback_widget.php:103 zvi_callback_widget.php:162
+msgid "Name"
+msgstr "نام"
+
+#: zvi_callback_admin.php:84
+msgid ""
+"Need help in setting up and finalizing a plugin or website, write to us, we "
+"will be happy to help you!"
+msgstr ""
+"نیاز به کمک در راه اندازی و نهایی یک پلاگین و یا وب سایت به ما ارسال و ما "
+"خواهد بود خوشحال به شما کمک کند!"
+
+#: zvi_callback_widget.php:106 zvi_callback_widget.php:163
+msgid "Phone"
+msgstr "تلفن"
+
+#: zvi_callback_admin.php:289
+msgid "Save Settings"
+msgstr "ذخیره تنظیمات"
+
+#: zvi_callback_admin.php:173
+msgid "Select the widget icon (by default, this is the No. 3 male consultant)"
+msgstr "را انتخاب کنید آیکون ویجت (به طور پیش فرض این است که شماره 3 نر مشاور)"
+
+#: zvi_callback_widget.php:108
+msgid "Send"
+msgstr "ارسال"
+
+#: zvi_callback_admin.php:258
+msgid ""
+"Send only to Telegram (By default, Send to the Default Form and Telegram)"
+msgstr "ارسال فقط به تلگرام (به طور پیش فرض ارسال به صورت پیش فرض و تلگراف)"
+
+#: zvi_callback_admin.php:255
+msgid "Settings for integration with Telegram"
+msgstr "تنظیمات برای ادغام با تلگرام"
+
+#: zvi_callback_admin.php:233
+msgid "Settings when using Contact Form 7 Callback"
+msgstr "تنظیمات که با استفاده از فرم تماس با 7 تماس"
+
+#: zvi_callback_widget.php:165
+msgid "Site URL"
+msgstr "آدرس سایت"
+
+#: zvi_callback_admin.php:134
+msgid "Subtitle form"
+msgstr "زیرنویس فرم"
+
+#: zvi_callback_admin.php:256
+msgid ""
+"Telegram API only works with the default form (does not work with Contact "
+"Form 7).\n"
+"To connect, enter the chat id and token, activate the Telegram bot before "
+"connecting. Read instructions"
+msgstr ""
+"تلگرام API تنها با این نسخهها کار به طور پیش فرض فرم (کار نمی کند با فرم "
+"تماس 7).\n"
+"برای اتصال را وارد کنید, چت با id و رمز فعال تلگرام ربات قبل از اتصال. "
+"جزئیات دستورالعمل"
+
+#: zvi_callback_admin.php:276
+msgid "Token Telegram"
+msgstr "رمز تلگرام"
+
+#: zvi_callback_admin.php:53
+msgid "Update widget settings"
+msgstr "به روز رسانی ویجت تنظیمات"
+
+#: zvi_callback_admin.php:224
+msgid "Url Pages after submitting the form (By default, the main page)"
+msgstr "آدرس صفحات بعد از ارسال فرم (به طور پیش فرض در صفحه اصلی)"
+
+#: zvi_callback_admin.php:100
+msgid "Web Studio F1 Website"
+msgstr "وب سایت استودیو F1 سایت"
+
+#: zvi_callback_admin.php:234
+msgid ""
+"When using Contact Form 7, paste the shortcode of your form in the next "
+"field. for example [contact-form-7 id=\"6\" title=\"Contact form 1\"]. \n"
+"                 Attention! When you insert shortcode Contact Form 7, the "
+"standard form will be disabled."
+msgstr ""
+"هنگامی که با استفاده از فرم تماس 7, قرار دادن کوتاه خود فرم در فیلد بعدی. "
+"برای مثال [contact-form-7 id=\"6\" title=\"فرم تماس 1\"]. \n"
+"توجه! هنگامی که شما با قرار دادن کد کوتاه, فرم تماس 7, استاندارد فرم غیر "
+"فعال خواهد شد."
+
+#: zvi_callback_admin.php:166
+msgid ""
+"Widget position on the left side (By default, By default, the widget on the "
+"right side)"
+msgstr ""
+"موقعیت عناصر صفحه در سمت چپ (به طور پیش فرض به طور پیش فرض ابزارک در سمت "
+"راست)"
+
+#: zvi_callback_admin.php:83
+msgid "WP ZVI Callback Widget Settings"
+msgstr "WP زوی پاسخ ویجت تنظیمات"
