@@ -1,6 +1,5 @@
 === ZVI CallBack widget ===
-Contributors: zvi1975
-Donate link: http://studio-f1.in.ua/
+link: https://wordpress.com/plugins/zvi-callback-widget
 Tags: zvi, callback, call, call back, phone, widget, contact form, callback, call request, call center, consultant, online
 Requires at least: 4.5
 Requires PHP: 5.4
